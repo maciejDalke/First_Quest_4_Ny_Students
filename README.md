@@ -1,7 +1,7 @@
 # First_Quest_4_Ny_Students
-Zadanie dla uczniów CLV LO  w Warszawie
+## Zadanie dla uczniów CLV LO  w Warszawie
 
-Proszę o utworzenie zestawu skrypcików które każdy zostanie udostępniony jako kolejny etap tworzenia kodu tj. jeden branch ale 4 różne commity na oddzielny branch nie master:
+### Proszę o utworzenie zestawu skrypcików które każdy zostanie udostępniony jako kolejny etap tworzenia kodu tj. jeden branch ale 4 różne commity na oddzielny branch nie master:
 
 1. Skrypt na zmianę nazw plików w podanym folderze na podany wzór
     ```
